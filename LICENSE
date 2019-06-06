@@ -1,21 +1,59 @@
-MIT License
+===========================================================================
 
-Copyright (c) 2019 Sina Jazani
+Matlab software implementation for:
+    AN ALTERNATIVE FRAMEWORK FOR FLUORESCENCE CORRELATION SPECTROSCOPY
+    Nature Communications (2019)
+    
+===========================================================================
+ 
+Copyright (C) 2019, Sina Jazani and Steve Presse
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+ 
+This software package includes several Matlab scripts and auxiliary
+functions, which implement the computational algorithms for the method
+ASWFCS described in the following publication:
+ 
+    An Alterantive Framework for Fluorescence Correlation Spectroscopy
+    Sina Jazani, Ioannis Sgouralis, Omer M. Shafraz, Marcia Levitus, 
+    Sanjeevi Sivasankar and Steve Presse
+    Nature Communications (2019)
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+Please cite the papers above in any publications using this software.
+
+ 
+===========================================================================
+
+Setup and Usage
+
+===========================================================================
+  
+1) To use this software in GUI form run:
+    ASWFCS
+in Matlab's command window.
+ 
+ 
+2) For further details or to report bugs contact:
+    sjazani@asu.edu or spresse@asu.edu
+
+4) This software (source code and GUI) has been developed in Matlab R2018b.
+
+ 
+===========================================================================
+
+Copyright and License
+
+===========================================================================
+ 
+Copyright (C) 2019, Sina Jazani and Steve Presse
+ 
+ 
+Permission is granted for anyone to copy, use, or modify these programs 
+and accompanying documents for purposes of research or education, provided
+this copyright notice is retained, and note is made of any changes that
+have been made.
+ 
+These programs and documents are distributed without any warranty, express 
+or implied.  As the programs were written for research purposes only, they 
+have not been tested to the degree that would be advisable in any important
+application.  All use of these programs is entirely at the user's own risk.
