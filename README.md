@@ -20,11 +20,12 @@ Setup and Usage
 
 ===========================================================================
   
-1) To use this software in GUI form run , GUI/ASWFCS.m in Matlab's command window.
+1) In the case of single diffusive species run ASWFCS.m from the folder 'GUI (single diffusive species)'. Source file by the nameof run_Main.m file is available for developers in the same folder.
+
+2) In the case of multi diffusive species run run_Main.m from the folder 'Mutli diffusive species_parametric (source code)'.
  
- 
-2) For further details or to report bugs contact:
+3) For further details or to report bugs contact:
     sjazani@asu.edu or spresse@asu.edu
 
-3) This software (source code and GUI) has been developed in Matlab R2018b.
+4) This software (source code and GUI) has been developed in Matlab R2018b.
 
